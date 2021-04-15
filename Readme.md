@@ -1,8 +1,7 @@
 
 
 #Hello there!
-Apologies this took so long i had exams and a few projects to finish before monday .
-I completely understand if it's too late for you now,but i would appreciate feedback non the less if possible.
+
 The implementation didnt take me much time and there's a lot to work on but the basic requirements are met i believe.
 
 
